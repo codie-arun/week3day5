@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <newElement bid="a1111111">new data..</newElement>
+    <book>
+        <id>J101</id>
+        <name>Reusable Elements - Design Patterns</name>
+        <author>Eric Gamma</author>
+        <author>Grady Booch</author>
+        <price>1000</price>
+    </book>
+    <book>
+        <id>E101</id>
+        <name>Rich Dad Poor Dad</name>
+        <author>Robert Kiyosaki</author>
+        <price>1000</price>
+        <imported/>
+    </book>
+    <newElement bid="a1111111">new data..</newElement>
+</books>

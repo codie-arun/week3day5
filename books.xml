@@ -1,0 +1,17 @@
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+	<book>
+		<id>J101</id>
+		<name>Reusable Elements - Design Patterns</name>
+		<author>Eric Gamma</author>
+		<author>Grady Booch</author>
+		<price>1000</price>
+	</book>
+	<book>
+		<id>E101</id>
+		<name>Rich Dad Poor Dad</name>
+		<author>Robert Kiyosaki</author>
+		<price>1000</price>
+		<imported/>
+	</book>
+</books>

@@ -1,0 +1,17 @@
+<books>
+	
+	<!-- Comment -->
+
+	<book>
+		hello
+		<id sno="1" idno="a1"></id>
+		<name>Rich dad Poor dad &amp; &lt; </name>
+		<sql><![CDATA[ select * from emp where emp.salary < 20000 ]]></sql>
+		<imported/>
+	</book>
+	<book>
+		<id sno="1" idno="a1"></id>
+		<name></name>
+		
+	</book>
+</books>
